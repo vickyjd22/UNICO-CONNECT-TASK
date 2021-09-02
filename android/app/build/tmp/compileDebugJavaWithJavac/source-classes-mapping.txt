@@ -1,0 +1,14 @@
+com/interviewtask/BuildConfig.java
+ com.interviewtask.BuildConfig
+com/interviewtask/MainActivity.java
+ com.interviewtask.MainActivity
+com/interviewtask/MainApplication.java
+ com.interviewtask.MainApplication
+ com.interviewtask.MainApplication$1
+com/interviewtask/ReactNativeFlipper.java
+ com.interviewtask.ReactNativeFlipper
+ com.interviewtask.ReactNativeFlipper$1
+ com.interviewtask.ReactNativeFlipper$2
+ com.interviewtask.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
